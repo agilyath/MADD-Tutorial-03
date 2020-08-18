@@ -13,7 +13,7 @@ public class SecondActivity extends AppCompatActivity {
 
     String  Out1 , Out2 , Out3 , Out4 , Out5 , Out6 , Out7 , Out8;
     Button add , sub , mult , divide;
-    EditText et1,et2;
+    TextView et1,et2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
